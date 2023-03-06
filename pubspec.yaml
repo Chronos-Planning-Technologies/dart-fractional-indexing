@@ -1,7 +1,7 @@
 name: fractional_indexing
-description: A starting point for Dart libraries or applications.
+description: Implemention of base62 fractional indexing, in dart.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Chronos-Planning-Technologies/dart-fractional-indexing
 
 environment:
   sdk: '>=3.0.0-218.1.beta <4.0.0'
